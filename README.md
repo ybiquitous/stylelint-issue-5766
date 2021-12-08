@@ -1,0 +1,1 @@
+# stylelint-issue-5766
