@@ -12,4 +12,5 @@ jobs:
         node-version: 16
         cache: npm
     - run: npm ci
+    - run: npm ls postcss
     - run: npm run lint
